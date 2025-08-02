@@ -61,6 +61,7 @@ header {
     background-color: #FEFAE0aa;
     margin: 16px;
     padding: 16px;
+    text-align: center;
 }
 
 .container h2 {
@@ -68,7 +69,7 @@ header {
     background-color: var(--cornsilk);
     width: fit-content;
     padding: 8px 16px;
-    margin-left: 16px;
+    margin: 0 auto;
     border: 2px solid var(--dark-moss-green);
     border-radius: 32px;   
 }
@@ -181,3 +182,4 @@ footer p {
     text-transform: uppercase;
     font-weight: bold;
 }
+
